@@ -1,4 +1,4 @@
-# 3DOmics
+# MetaGAM QC analysis pipeline
 This pipeline was developed in Ana Pombo lab as part of work for 3DOmics consortia. It takes any number of fastq raw sequencing files and compute the reads and coverage for different bacterial species, as well as human and chicken contaminations to determine quality of DNA extraction and quality metrics.
 
 It requires the following software package to be installed: bedtools, samtools, bowtie2, python, python pandas and python numpy libraries.
